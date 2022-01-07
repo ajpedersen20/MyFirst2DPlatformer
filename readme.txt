@@ -18,3 +18,6 @@ a blue objective block that progresses the player when touched.
 The player can traverse these levels with left and right movement, a jump, and a
 left/right dash that can be used once in the air before touching the ground again to
 reset it.
+
+Unfortunately the exported windows application had files greater than 100MB, so I
+did not include it in this repo.
