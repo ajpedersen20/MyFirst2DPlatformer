@@ -20,4 +20,4 @@ left/right dash that can be used once in the air before touching the ground agai
 reset it.
 
 Unfortunately the exported windows application had files greater than 100MB, so I
-did not include it in this repo.
+did not include it in this repo, but there is a demo that shows how the game works.
