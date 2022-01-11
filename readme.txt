@@ -19,5 +19,8 @@ The player can traverse these levels with left and right movement, a jump, and a
 left/right dash that can be used once in the air before touching the ground again to
 reset it.
 
+I developed this game using Processing which is a Java IDE used mostly for graphical
+work and projects such as this.
+
 Unfortunately the exported windows application had files greater than 100MB, so I
 did not include it in this repo, but there is a demo that shows how the game works.
