@@ -1,9 +1,11 @@
 My First 2D Platformer
 Alex Pedersen
 
-This is a project that I created a bare-bones version of in highschool for a
-java-based computer science class. Since then, I have added a couple of features
-such as a menu and the leaderboard to make it a more complete project.
+This is a project that I created in highschool for a java-based computer science
+class. We were tasked with finding a client and developing something that they
+wanted to see. My client was my brother, and he asked me to make a 2D platformer
+game. This is the end result after several cycles of client meetings, planning,
+developing, and testing.
 
 When the player starts the game, they enter the menu where they can choose to either
 select a level, view the leaderboard, or look at the controls. There are six levels
